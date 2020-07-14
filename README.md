@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](https://github.com/ardacebi/ardacebi/blob/master/banner.png)
 
 
 I'm a web, mobile developer and a designer.
