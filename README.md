@@ -1,6 +1,3 @@
-![Banner](https://github.com/ardacebi/ardacebi/blob/master/preview.png)
-
-
 I'm a web, mobile developer and a designer.
 
 - 💻 For my software projects, you're already in the right place ([see all](https://github.com/ardacebi?tab=repositories))
